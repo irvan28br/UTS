@@ -1,0 +1,1 @@
+Chat clients connects to chat server IP 127.0.0.1 Port 4567. IP needs changing if connect to multiple machine. able to create a new room, enter/leave rooms, retrieve list of rooms and send messages to entered rooms. User can enter multiple rooms at once.
